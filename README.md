@@ -1,1 +1,1 @@
-# C-Shopping-List-Project
+# C Shopping List Project

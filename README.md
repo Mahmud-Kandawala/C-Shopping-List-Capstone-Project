@@ -61,12 +61,13 @@ Main Function:
 ```
 
 ## How It Works 
+```
 ● The program starts with an empty shopping cart.
 ● When a product is added via Push, it's placed in the doubly linked list (for cart management) and the binary search tree (for efficient searching).
 ● The Display function can be used to view the cart's contents.
 ● Products can be searched or deleted through the Search function.
 ● The Pop and Qdelete functions mimic stack and queue behaviors to remove products from the cart.
-
+```
 ## Conclusion
 The program demonstrates a complex use of data structures for practical application. It efficiently manages a shopping list by allowing users to add, search, and delete items while providing a user-friendly interface. Integrating different data structures like linked lists, trees, stacks, queues, etc., illustrates a well-thought-out approach to solving a common real-world problem.
 

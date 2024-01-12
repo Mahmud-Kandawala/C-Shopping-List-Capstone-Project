@@ -1,11 +1,9 @@
 # C Shopping List Capstone Project
 
 ## Objective
-
-Leveraged extensive knowledge of various data structures to create a comprehensive and efficient shopping cart program in C. This application seamlessly integrates multiple data structures, to facilitate features such as adding and deleting items, tracking the last seen item, and querying specific products. My implementation showcases not only a profound grasp of these data structures but also their practical application in designing a user-friendly and robust shopping cart system. This integration highlights my ability to effectively apply theoretical concepts to real-world programming challenges, thereby delivering a solution that is both technically sound and highly functional.
+Leveraged extensive knowledge of various data structures to create a comprehensive and efficient shopping cart program in C. This application seamlessly integrates multiple data structures to facilitate features such as adding and deleting items, tracking the last seen item, and querying specific products. My implementation showcases a profound grasp of these data structures and their practical application in designing a user-friendly and robust shopping cart system. This integration highlights my ability to effectively apply theoretical concepts to real-world programming challenges, thereby delivering a technically sound and highly functional solution.
 
 ## Images
-
 <img src = "images/1.png"> 
 <img src = "images/2.png"> 
 
@@ -71,7 +69,7 @@ Main Function:
 ● The Pop and Qdelete functions mimic stack and queue behaviors to remove products from the cart.
 
 ## Conclusion
-The program demonstrates a complex use of data structures for practical application. It efficiently manages a shopping list by allowing the user to add, search, and delete items while providing a user-friendly interface. Integrating different data structures like linked lists, trees, stacks, queues, etc., illustrates a well-thought-out approach to solving a common real-world problem.
+The program demonstrates a complex use of data structures for practical application. It efficiently manages a shopping list by allowing users to add, search, and delete items while providing a user-friendly interface. Integrating different data structures like linked lists, trees, stacks, queues, etc., illustrates a well-thought-out approach to solving a common real-world problem.
 
 ## Testing
 Run EXE File

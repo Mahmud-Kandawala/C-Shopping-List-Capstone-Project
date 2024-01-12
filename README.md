@@ -61,7 +61,6 @@ Main Function:
 ```
 
 ## How It Works 
-
 ● The program starts with an empty shopping cart.
 ● When a product is added via Push, it's placed in the doubly linked list (for cart management) and the binary search tree (for efficient searching).
 ● The Display function can be used to view the cart's contents.

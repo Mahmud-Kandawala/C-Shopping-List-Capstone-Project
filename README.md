@@ -70,6 +70,11 @@ This project utilizes various skills and methodologies, including:
 
 To test the application, run the executable file and interact with the menu-driven interface to add, delete, search, and display items in the shopping cart.
 
+## Images
+![Home Screen](imgages/1.png)
+![Demo Screen](imgages/2.png)
+
+
 ---
 
 This project serves as a comprehensive demonstration of applying advanced data structures to solve real-world problems, showcasing both technical skills and problem-solving abilities.

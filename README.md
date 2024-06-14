@@ -71,8 +71,8 @@ This project utilizes various skills and methodologies, including:
 To test the application, run the executable file and interact with the menu-driven interface to add, delete, search, and display items in the shopping cart.
 
 ## Images
-![Home Screen](imgages/1.png)
-![Demo Screen](imgages/2.png)
+![Home Screen](images/1.png)
+![Demo Screen](images/2.png)
 
 
 ---
